@@ -1,4 +1,4 @@
-# agiles.uy web site
+# agiles.mx web site
 
 ## Local development
 
