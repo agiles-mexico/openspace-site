@@ -1,0 +1,1 @@
+!function(a){a(".splash .images").fotorama({width:"100%",height:"100%",margin:0,fit:"cover",nav:!1}).data("fotorama")}(jQuery);
